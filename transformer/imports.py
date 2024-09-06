@@ -1,6 +1,10 @@
 from datasets import load_dataset
 
 def imports ():
+    """"
+    Essa função realiza os imports das bibliotecas necessárias para o desenvolvimento do projeto.
+    """
+
     import evaluate
     import transformers
     import torch
