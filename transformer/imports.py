@@ -6,8 +6,8 @@ from transformers import TimeSeriesTransformerForPrediction as TSTForPrediction
 from gluonts import *
 
 # Bibliotecas de visualização
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
+import matplotlib.pyplot as plt # type: ignore
+import matplotlib.dates as mdates # type: ignore
 
 # Bibliotecas de manipulação de dados
 import pandas as pd
