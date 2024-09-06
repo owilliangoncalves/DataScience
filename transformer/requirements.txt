@@ -1,0 +1,8 @@
+transformers==4.37.2
+datasets==2.16.1
+python-dotenv==1.0.1
+evaluate==0.4.1
+accelerate==0.26.1
+gluonts==0.14.4
+ujson==5.4.0
+urllib3==1.26.16

@@ -28,8 +28,6 @@ O PCA baseia-se nos conceitos de Matriz de Variância e Covariância.
 
 $$\sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \mu)^2}{n}$$
 
-Ambas as formas são equivalentes e corretas!
-
 onde:
 
 - $\sigma^2$ é a variância
